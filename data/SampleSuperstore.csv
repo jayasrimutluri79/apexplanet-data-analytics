@@ -1,0 +1,6 @@
+Order ID,Customer Name,Category,Sub-Category,Region,Sales,Quantity,Profit,Order Date
+1001,Rahul,Furniture,Chair,East,2500,2,500,2026-01-10
+1002,Priya,Technology,Laptop,West,45000,1,8000,2026-01-12
+1003,Kiran,Office Supplies,Paper,South,800,10,100,2026-01-15
+1004,Sneha,Technology,Phone,North,18000,2,3000,2026-01-18
+1005,Arjun,Furniture,Table,East,7000,1,900,2026-01-20
